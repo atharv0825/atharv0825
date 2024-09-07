@@ -22,8 +22,6 @@ I'm a passionate third-year B.Tech student majoring in Computer Science. Welcome
 - **LinkedIn**: [linkedin.com/in/atharvbabar](https://linkedin.com/in/atharvbabar)
 - **Twitter**: [@atharv0825](https://twitter.com/atharv0825)
 
-### 😄 Pronouns:
-- **He/Him**
 
 ### ⚡ Fun Fact:
 - I can solve a Rubik's cube in under a 2 minutes, and I love binge-watching sci-fi movies!

@@ -17,36 +17,11 @@ I'm a passionate third-year B.Tech student majoring in Computer Science. Welcome
 - **Hackathons**: Teaming up to solve real-world problems in innovative ways.
 - **Research**: Collaborating on research papers in AI, machine learning, and blockchain.
 
-### 📫 How to Reach Me:
-- **Email**: [atharvbabar@example.com](mailto:atharvbabar@example.com)
-- **LinkedIn**: [linkedin.com/in/atharvbabar](https://linkedin.com/in/atharvbabar)
-- **Twitter**: [@atharv0825](https://twitter.com/atharv0825)
+
 
 
 ### ⚡ Fun Fact:
 - I can solve a Rubik's cube in under a 2 minutes, and I love binge-watching sci-fi movies!
-
----
-
-## Popular Repositories
-
-### [Image-Converter-java](https://github.com/atharv0825/Image-Converter-java) 
-Seamless conversion of images in Java.
-- **Language**: Java
-
-### [DSA_FAANG_Questions](https://github.com/atharv0825/DSA_FAANG_Questions)
-Template repository for DSA FAANG interview questions.
-- **Language**: C++
-
-### [Python](https://github.com/atharv0825/Python)
-A repository containing examples and exercises demonstrating core Python programming concepts.
-- **Language**: Python
-
-### [FinTrack](https://github.com/atharv0825/FinTrack)
-A personal finance management app.
-- **Language**: Java
-
----
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing together! 😊
 

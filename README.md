@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Atharv Babar
 
-I'm a passionate third-year B.Tech student majoring in Computer Science. Welcome to my GitHub profile, where I share my coding journey, projects, and collaborations!
+
 
 ### 👀 What I'm Interested In:
 - **Data Structures & Algorithms**: Solving complex problems and optimizing solutions.

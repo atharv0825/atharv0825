@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer with strong expertise in Java, Spring Boot, RESTful APIs, and AWS, experienced in building scalable web and mobile applications, cloud-native systems, and AI-driven solutions. Proven ability to design, develop, and deploy production-grade applications, improving system performance, reliability, and business outcomes.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv0825" alt="atharv0825" /></a> </p>
-
 - 🔭 I’m currently working on [Scramblo](https://www.scramblo.xyz/)
 
 - 🌱 I’m currently learning **AWS Solutions Architecture, System Design, Spring AI, Microservices**
